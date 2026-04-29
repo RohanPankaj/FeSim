@@ -1,5 +1,7 @@
 # FeSim: An Open-Source Software for Ferroelectric Hysteresis Modeling and Analysis
 
+> A desktop app for simulating and analyzing ferroelectric P-E hysteresis loops using Landau-Ginzburg-Devonshire theory — built to help researchers identify nonidealities (leakage, imprint, dead layers) in thin-film ferroelectric capacitors.
+
 **Author:** Rohan S. Pankaj  
 **Advisor:** Prof. Lucas Caretta  
 **Engineering Senior Capstone — Brown University**
