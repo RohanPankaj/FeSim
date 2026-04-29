@@ -224,6 +224,12 @@ ferroelectric_app/
 
 ---
 
+## AI Acknowledgement
+
+Portions of this codebase were drafted with the assistance of generative AI tools (Claude, GitHub Copilot). All generated code was reviewed, tested, and validated by the author. All physics, design decisions, and scientific content are the author's own work.
+
+---
+
 ## References
 
 [1] P. Chandra and P. B. Littlewood, "A Landau Primer for Ferroelectrics," in *Physics of Ferroelectrics*, Springer, Berlin, 2007.

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "FeSim: An Open-Source Software for Ferroelectric Hysteresis Modeling and Analysis"
+authors:
+  - family-names: Pankaj
+    given-names: Rohan S.
+    affiliation: Brown University
+repository-code: https://github.com/RohanPankaj/leak
+abstract: >
+  A desktop application for simulating and analyzing ferroelectric P-E hysteresis
+  loops using Landau-Ginzburg-Devonshire theory. Designed to help researchers
+  identify nonidealities (leakage, imprint, dead layers) in thin-film ferroelectric
+  capacitors (FeCAPs).
+keywords:
+  - ferroelectrics
+  - hysteresis
+  - Landau-Ginzburg-Devonshire
+  - thin films
+  - FeRAM
+  - HZO
+  - PZT
+  - BaTiO3
+license: MIT
+date-released: "2026-04-28"
